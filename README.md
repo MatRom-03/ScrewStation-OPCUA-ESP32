@@ -167,7 +167,7 @@ Organisation détaillée : **[`docs/architecture.md`](docs/architecture.md)**
 
 ## 8. Crédits et licence
 
-- Adaptation, modifications et intégration : **Mattéo MOISANT** — projet **ScrewStation OPCUA - ESP-32**.
+- Adaptation, modifications et intégration : **Mattéo MOISANT**, **Mehdi ALI**, **Paul PERIGAULT** — projet **ScrewStation OPCUA - ESP-32**.
 - Machine, scénario et code d'origine : kit **« Les Meubles du Futur » — Automate
   A1 visseuse »**, © Eric Truffet, distribué sous licence **MIT**.
 - Bibliothèque OPC UA : **open62541** (licence MPL-2.0).
